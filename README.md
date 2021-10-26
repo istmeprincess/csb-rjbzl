@@ -7,3 +7,4 @@ it is a calculator coded openly on codesandbox + this version is for smartdevice
 
 lets rock :)
 
+![candyulator-mobile](https://user-images.githubusercontent.com/88629463/138821596-a1275f31-1d1e-4213-be05-13ef8d17ae61.jpg)
